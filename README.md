@@ -1,6 +1,6 @@
-# Awesome-DL-with-Few-Data
+# Awesome Materials in Understanding Deep Learning
 
-## Dense Retrieval
-| Papers | Conference | Codes |
-| :----- | :-------: | ----: |
-| Learning from one example through shared densities on transforms | CVPR 2000 |  |
+## Stochastic-based Understanding
+| Followed work | Abstract |
+| --- | --- |
+| https://hanin.princeton.edu/ |  |
